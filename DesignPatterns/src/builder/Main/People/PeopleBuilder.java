@@ -1,4 +1,4 @@
-package People;
+package builder.Main.People;
 
 import java.time.LocalDate;
 
