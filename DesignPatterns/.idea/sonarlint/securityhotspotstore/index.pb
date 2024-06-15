@@ -402,3 +402,7 @@ W
 'src/factoryMethod/notification/SMS.java,6\8\68e30310b0c0b334f80d932b7897bd262a090248
 G
 src/singleton/README.md,9\1\913ead933e570e32cdce48242ea5eaf711c2a287
+T
+$src/singleton/calender/Calender.java,f\a\fa5aca45162a13d4d68ad7b140fb739803290bdb
+L
+src/singleton/main/Main.java,0\6\0642d1ac4eb53eef950dce0f9cee70ab129993d8
