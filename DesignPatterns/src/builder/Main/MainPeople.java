@@ -1,14 +1,14 @@
 package builder.Main;
 
-import builder.Main.People.People;
-import builder.Main.People.PeopleBuilder;
+import builder.People.People;
+import builder.People.PeopleBuilder;
 
 import javax.swing.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class MainPeople {
 
     public static void main(String[] args) {
 
