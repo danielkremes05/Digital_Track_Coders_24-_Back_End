@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Days busy: " + dayBusy);
         System.out.println(daysFree.getDaysAvailable());
 
+
     }
 }
