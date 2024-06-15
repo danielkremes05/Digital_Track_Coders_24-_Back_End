@@ -400,3 +400,5 @@ X
 (src/factoryMethod/notification/Push.java,8\2\82bc59c19ac46f8d0d90771028f92ca10b5f8524
 W
 'src/factoryMethod/notification/SMS.java,6\8\68e30310b0c0b334f80d932b7897bd262a090248
+G
+src/singleton/README.md,9\1\913ead933e570e32cdce48242ea5eaf711c2a287
