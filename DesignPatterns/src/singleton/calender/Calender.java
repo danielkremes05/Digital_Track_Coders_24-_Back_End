@@ -19,5 +19,11 @@ public class Calender {
 
     }
 
+    public Map<String, Boolean> getDaysAvailable () {
+        return daysAvailable;
+    }
 
+    public void busy (String day) {
+        daysAvailable.replace(day, Boolean.FALSE);
+    }
 }
