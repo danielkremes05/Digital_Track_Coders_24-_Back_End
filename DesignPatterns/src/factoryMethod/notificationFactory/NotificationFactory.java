@@ -1,6 +1,6 @@
 package factoryMethod.notificationFactory;
 
-import factoryMethod.Notification.Notification;
+import factoryMethod.notification.Notification;
 
 public abstract class NotificationFactory {
 

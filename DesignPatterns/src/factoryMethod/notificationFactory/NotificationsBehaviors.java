@@ -1,9 +1,9 @@
 package factoryMethod.notificationFactory;
 
-import factoryMethod.Notification.Email;
-import factoryMethod.Notification.Notification;
-import factoryMethod.Notification.Push;
-import factoryMethod.Notification.SMS;
+import factoryMethod.notification.Email;
+import factoryMethod.notification.Notification;
+import factoryMethod.notification.Push;
+import factoryMethod.notification.SMS;
 
 public class NotificationsBehaviors extends NotificationFactory {
 

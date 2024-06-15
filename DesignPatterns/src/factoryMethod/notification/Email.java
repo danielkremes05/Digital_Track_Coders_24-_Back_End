@@ -1,4 +1,4 @@
-package factoryMethod.Notification;
+package factoryMethod.notification;
 
 public class Email implements Notification {
     @Override

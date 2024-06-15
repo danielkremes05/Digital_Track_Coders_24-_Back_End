@@ -1,6 +1,6 @@
-package factoryMethod.Main;
+package factoryMethod.main;
 
-import factoryMethod.Notification.Notification;
+import factoryMethod.notification.Notification;
 import factoryMethod.notificationFactory.NotificationFactory;
 import factoryMethod.notificationFactory.NotificationsBehaviors;
 

@@ -1,4 +1,4 @@
-package factoryMethod.Notification;
+package factoryMethod.notification;
 
 public class SMS implements Notification {
     @Override
