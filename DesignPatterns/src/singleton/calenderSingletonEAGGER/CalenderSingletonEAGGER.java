@@ -9,7 +9,7 @@ public class CalenderSingletonEAGGER {
 
     Map<String, Boolean> daysAvailable = new HashMap<>();
 
-    public CalenderSingletonEAGGER () {
+    private CalenderSingletonEAGGER () {
 
         daysAvailable.put("Monday", Boolean.TRUE);
         daysAvailable.put("Tuesday", Boolean.TRUE);

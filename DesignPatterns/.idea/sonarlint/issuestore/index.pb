@@ -430,3 +430,11 @@ Y
 )src/singleton/main/MainSingletonLAZY.java,e\8\e8141febc2e1cd0bdb52099b7cfbe41491843d7b
 q
 Asrc/singleton/calenderSingletonLAZY/ReserveAdaySingletonLAZY.java,5\a\5aeee3845987848f591bb6f4af9914ac51f5c637
+Z
+*src/singleton/main/MainSingletionEnum.java,c\0\c028b5f9a965e3b6b7bdb38b40942a9d5b567b64
+r
+Bsrc/singleton/calenderSingletonLAZY/CalenderSingletonLAZYEnum.java,d\1\d153919910d7796bc069f5788841bc1d97cd1849
+]
+-src/singleton/main/MainSingletonLAZYEnum.java,1\c\1c74c3f365d2530681572b8a948819d5787e31db
+q
+Asrc/singleton/calenderSingletonLAZY/ReserveAdaySingletonEnum.java,2\2\222029770cbf177ad1216f93b14390fd3805a8d6

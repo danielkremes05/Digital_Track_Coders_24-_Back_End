@@ -1,13 +1,15 @@
-package singleton.calender;
+package singleton.calenderSingletonLAZY;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Calender {
+public enum CalenderSingletonLAZYEnum {
+
+    INSTANCE;
 
     Map<String, Boolean> daysAvailable = new HashMap<>();
 
-    public Calender () {
+    private CalenderSingletonLAZYEnum () {
 
         daysAvailable.put("Monday", Boolean.TRUE);
         daysAvailable.put("Tuesday", Boolean.TRUE);
@@ -17,6 +19,10 @@ public class Calender {
         daysAvailable.put("Saturday", Boolean.TRUE);
         daysAvailable.put("Sunday", Boolean.TRUE);
 
+    }
+
+    public static CalenderSingletonLAZYEnum getINSTANCE () {
+        return INSTANCE;
     }
 
     public Map<String, Boolean> getDaysAvailable () {

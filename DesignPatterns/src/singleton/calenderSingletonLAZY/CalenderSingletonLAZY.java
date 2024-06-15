@@ -10,7 +10,7 @@ public class CalenderSingletonLAZY {
 
     Map<String, Boolean> daysAvailable = new HashMap<>();
 
-    public CalenderSingletonLAZY () {
+    private CalenderSingletonLAZY () {
 
         daysAvailable.put("Monday", Boolean.TRUE);
         daysAvailable.put("Tuesday", Boolean.TRUE);

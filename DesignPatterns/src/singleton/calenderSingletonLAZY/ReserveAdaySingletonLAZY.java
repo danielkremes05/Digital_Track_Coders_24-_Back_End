@@ -10,4 +10,6 @@ public class ReserveAdaySingletonLAZY {
     public void remove (String day) {
         singletonEAGGER.busy(day);
     }
+
+
 }
