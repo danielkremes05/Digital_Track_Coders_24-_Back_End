@@ -100,3 +100,4 @@
 ## Design Patterns in Java
 
 - Builder
+- Factory Method
