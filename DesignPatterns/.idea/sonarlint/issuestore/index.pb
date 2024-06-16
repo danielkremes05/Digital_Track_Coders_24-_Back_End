@@ -434,3 +434,33 @@ M
 src/adapter/adapters/Min.java,5\0\502adb37d5b5c34a27120e78a9a2440e210450fc
 N
 src/adapter/adapters/Main.java,0\5\058e7c3fa147e3fd18d0b388ca1f647086872ca9
+I
+src/strategy/Employe.java,b\0\b045e0a5aaaff05e4f69be2b8980bb33dcf53ed0
+Q
+!src/strategy/ContractEmpoyee.java,9\2\929819e35697b8cb0b2d87b44b0bbc51b5d98e0f
+F
+src/strategy/Main.java,c\e\ce3b0ca9b4abd41b808f2cd0b4da7caba5ffc57c
+s
+Csrc/strategy/paymentSystem/StrategyInterface/StrategyInterface.java,9\0\9043f41b8ec69e67bd50c7a9d394690ce1ed4cdc
+x
+Hsrc/strategy/paymentSystem/interfaceSystemPayment/StrategyInterface.java,8\d\8df66ca3745b1ff87c3a5d84a21c86f7690d7691
+x
+Hsrc/strategy/paymentSystem/interfacePaymentSystem/StrategyInterface.java,8\a\8aa20ff0cf159656cd66c6ee0d68116ec9c3bff9
+m
+=src/strategy/paymentSystem/strategiesPayments/CreditCard.java,2\3\233450865d53fa7ef7badb81d98351e0d038d15e
+i
+9src/strategy/paymentSystem/strategiesPayments/PayPal.java,4\b\4b840ffc12fe8642c4e6069e3554431b8cc855ab
+p
+@src/strategy/paymentSystem/strategiesPayments/PayPalPayment.java,d\4\d40c31643b5d3c17a3dbcb0937b66a47adb52170
+q
+Asrc/strategy/paymentSystem/strategiesPayments/BitcoinPayment.java,0\d\0d81d8b4ef6b19e0ba198196980557d23b347377
+t
+Dsrc/strategy/paymentSystem/strategiesPayments/CreditCardPayment.java,4\6\4685be030e94d9066456e1f2b9ee58be35dbebd6
+m
+=src/strategy/paymentSystem/strategyProducts/ShoppingCart.java,9\6\9602db80999c649c18b3d45aebe325d767832a52
+e
+5src/strategy/paymentSystem/strategyProducts/Item.java,3\d\3de618883e5d4819a100f80a4ad696dbca2ea9f4
+K
+src/strategy/Main/Main.java,b\6\b65378b03d88d188c6c941b69844148b01092b87
+Y
+)src/strategy/paymentSystem/Main/Main.java,a\8\a8af6070423041483a1b6a1084f9252ccb4b6083
