@@ -410,3 +410,5 @@ H
 src/proxy/test/Main.java,3\c\3cdb830d4ebb204b5db7c3120682ad8534cd75dd
 _
 /src/proxy/repository/PeopleRepositoryProxy.java,8\5\8544415bcfb287a0c2ce93b739ebce5bb98c5831
+E
+src/adpater/README.md,a\a\aa7795548f4fea0418b270c75cc6d035e93f1c27
