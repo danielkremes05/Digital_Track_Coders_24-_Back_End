@@ -524,3 +524,15 @@ w
 G.idea/sonarlint/issuestore/3/d/3de618883e5d4819a100f80a4ad696dbca2ea9f4,d\1\d127def834b1141784eb2697eaa2d684224465e1
 Å
 Q.idea/sonarlint/securityhotspotstore/3/d/3de618883e5d4819a100f80a4ad696dbca2ea9f4,d\1\d1cd25211dd245caf714cf2ae6cdd6d799c120c9
+]
+-src/chainOfResponsibility/HelpDeskTicket.java,3\a\3a666444fc5d4ecb6abf4678cc094e7fe4912a58
+]
+-src/chainOfResponsibility/SupportHandler.java,c\7\c7a12c2acfb9f442f74b647f2de96e46ce098600
+a
+1src/chainOfResponsibility/LowPrioritySupport.java,0\1\0134161c0da9a5bdfb263862182a943b906efca5
+d
+4src/chainOfResponsibility/MediumPrioritySupport.java,7\c\7cc5f4f70e086f0c8cfc7935e2c535f4fb6f1691
+b
+2src/chainOfResponsibility/HighPrioritySupport.java,1\a\1a3f1b1bae4fc560edbd8928313b983436c5ec9a
+S
+#src/chainOfResponsibility/Main.java,7\b\7b7fab483365b13e971265bc96fe9b3bada75ab9
