@@ -440,3 +440,15 @@ q
 Asrc/singleton/calenderSingletonLAZY/ReserveAdaySingletonEnum.java,2\2\222029770cbf177ad1216f93b14390fd3805a8d6
 G
 src/prototype/README.md,7\2\7298b3fbd4d3b22ce48d20c2dfa6913c3c77d60f
+N
+src/prototype/shape/Shape.java,e\a\ea62c0483eb81a789f677f90c5f5e928b0fcb712
+O
+src/prototype/shape/Shapes.java,9\d\9dcf90d2fc62786ff580d0c96c98fbaaf726a69e
+O
+src/prototype/shape/Circle.java,2\b\2bbd52b7d9242f06944b3519b0398731fd4573b9
+Q
+!src/prototype/shape/Retangle.java,a\4\a4779fecd591c472cabadd6181840a7c9c3079fd
+L
+src/prototype/main/Main.java,d\0\d01d98dfdeffa3ce76440f193dc4f087a530da4a
+X
+(src/prototype/shape/CloneAddCompare.java,4\b\4bafb0464f6b92baf7b70665447a9ca52c67d3c9
